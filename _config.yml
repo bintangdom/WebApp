@@ -1,15 +1,15 @@
 # Stolen from cbkadal's repo
 
-title:       "Operating Systems 2021-1 (OS211)"
-description: "Hello there!"
-author:           "Hocky Yudhiono"
-address:          "Pontianak"
+title:       "Sistem Operasi 2021-1 (OS211)"
+description: "Halo!"
+author:           "Bintang Dominique"
+address:          "Jakarta"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://os.hockyy.com/"
-urlgithub:        "https://github.com/hockyy/os211/"
-urlghpage:        "https://hockyy.github.io/os211/"
+urlweb:           "https://os.bintangdom.com/"
+urlgithub:        "https://github.com/bintangdom/WebApp/"
+urlghpage:        "https://bintangdom.github.io/WebApp/"
 keywords:         "jekyll, testing"
 github:           [metadata]
