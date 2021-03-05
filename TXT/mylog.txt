@@ -1,0 +1,25 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# Week 00
+ZCZC W00  30 L04 Set up github pages
+ZCZC W00 150 L21 Install VMWare and Debian
+ZCZC W00  40 L05 Stalk other students' progress
+ZCZC W00  40 L08 Try SSH
+ZCZC W00  40 L22 Watch the video sir posted on forum
+ZCZC W00 300 L04 Set up Jekyll
+ZCZC W00  80 L04 Delete Jekyll Theme
+ZCZC W00  40 L04 Set pub key, optimize github page
+
+# Week 01
+ZCZC W01  50 L05 Solve Q01
+ZCZC W01  20 L05 Solve Q02
+ZCZC W01   5 L11 Make sure debian set up well
+ZCZC W01  10 L06 Read about licenses
+ZCZC W01  10 L00 Make a study plan
+ZCZC W01 200 L06 Study for week 0's materials
+ZCZC W01  80 L17 Slowly making my way to fill up the lists
+
+
+# Study Hard! No more TABULA RASA. Jolan Tru!

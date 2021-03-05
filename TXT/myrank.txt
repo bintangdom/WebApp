@@ -1,0 +1,4 @@
+# TOP 10 Rank
+# Format is
+# ZCZC WEEK GITHUB-USERNAME
+# ZCZC W00 hockyy
