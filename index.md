@@ -2,10 +2,8 @@
 layout: "layout"
 ---
 
-Hello!
+Halo!
+Nama Saya Bintang Dominique
 
-This is Operating Systems 2021-1 (OS211) and
-I am {{ site.author }}.
-
-Qapla, Jolan Tru!
+Ini adalah repository untuk Operating Systems 2021-1 (OS211) 
 
